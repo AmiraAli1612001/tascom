@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tascom/static/css/main.d87bf1d7.css",
+    "main.js": "/tascom/static/js/main.72b94203.js",
+    "index.html": "/tascom/index.html",
+    "main.d87bf1d7.css.map": "/tascom/static/css/main.d87bf1d7.css.map",
+    "main.72b94203.js.map": "/tascom/static/js/main.72b94203.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d87bf1d7.css",
+    "static/js/main.72b94203.js"
+  ]
+}
